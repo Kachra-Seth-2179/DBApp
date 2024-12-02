@@ -4,8 +4,8 @@ services:
     ports:
       - "80:5000"
     environment:
-      AZURE_MYSQL_HOST: dockerimagesregistry30-server.mysql.database.azure.com
-      AZURE_MYSQL_USER: doogbqtvdr
-      AZURE_MYSQL_PASSWORD: wYHPdgnNA$OnwSH1
-      AZURE_MYSQL_NAME: dockerimagesregistry30-database
+      AZURE_MYSQL_HOST: azure-server-1.mysql.database.azure.com
+      AZURE_MYSQL_USER: swseybeign
+      AZURE_MYSQL_PASSWORD: nW8a1xbr$K0nIloR
+      AZURE_MYSQL_NAME: azure-database
 
