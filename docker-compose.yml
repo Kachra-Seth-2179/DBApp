@@ -1,11 +1,2 @@
-services:
-  web:
-    build: .
-    ports:
-      - "80:5000"
-    environment:
-      AZURE_MYSQL_HOST: azure-server-1.mysql.database.azure.com
-      AZURE_MYSQL_USER: swseybeign
-      AZURE_MYSQL_PASSWORD: nW8a1xbr$K0nIloR
-      AZURE_MYSQL_NAME: azure-database
+
 
